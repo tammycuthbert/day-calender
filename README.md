@@ -4,6 +4,8 @@ This is a simple calander application allows the user to save events for each ho
 
 This application uses [Moment.js](https://momentjs.com/) library to work with date and time.
 
+Here is a link to the live application https://tammycuthbert.github.io/day-calender/
+
 ## User Story
 
 ```
